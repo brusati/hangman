@@ -1,3 +1,3 @@
 # hangman
 
-![image](https://user-images.githubusercontent.com/71679642/144652822-68192d4a-0156-4b49-8c32-7d44a9758213.png)
+![image](https://user-images.githubusercontent.com/71679642/144652881-4d438b4c-e9aa-4e26-8d93-2d8753c81ab1.png)
